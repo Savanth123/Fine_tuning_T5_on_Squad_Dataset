@@ -29,6 +29,9 @@ The solutions for  1 - 9 questions are in the assignment part-1 file and solutio
 This is the link where can you download the trained weights,
 
 
+
+
 [weights_2_epochs](https://drive.google.com/drive/folders/1ax-iUx3h9HRiRrMocGOoK7ZX8-lffsyo?usp=drive_link)
+
 [weights_4_epochs](https://drive.google.com/drive/folders/1xpqE3B-uDXbkMSxLjl9CV8vF0alSRUJx?usp=drive_link)
 

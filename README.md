@@ -1,3 +1,4 @@
+##Problem Statement
 1. Use a pre-trained google/flan-t5-small as the model.
 2. Verify if the summariza'on task works.
 3. Verify if the Q&A task works.
@@ -17,11 +18,17 @@ appropriate task prefix/trigger word and jus'fy the choice.
 
 
 
+
+## Solutions
+
+
 The solutions for these questions are in the above notebooks. 
 The solutions for  1 - 9 questions are in the assignment part-1 file and solutions for 10-12 questions are in the assignment part-2. Assignment part-2-2_epochs is the file where i have trained model for 2 epochs and Assignment part-2-4_epochs is the file where i have trained model for 4 epochs
 
-
+## Weights
 This is the link where can you download the trained weights,
-[weights_2_epochs]([URL](https://drive.google.com/drive/folders/1ax-iUx3h9HRiRrMocGOoK7ZX8-lffsyo?usp=drive_link))
-[weights_4_epochs]([URL](https://drive.google.com/drive/folders/1xpqE3B-uDXbkMSxLjl9CV8vF0alSRUJx?usp=drive_link))
+
+
+[weights_2_epochs](https://drive.google.com/drive/folders/1ax-iUx3h9HRiRrMocGOoK7ZX8-lffsyo?usp=drive_link)
+[weights_4_epochs](https://drive.google.com/drive/folders/1xpqE3B-uDXbkMSxLjl9CV8vF0alSRUJx?usp=drive_link)
 
